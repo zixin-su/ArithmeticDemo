@@ -5,7 +5,7 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{C962B041-97D7-4922-B820-C03FE581575F}</ProjectGuid>
+        <ProjectGuid>{03CC58D2-50BD-4501-A5E0-6D206E0D425D}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
         <RootNamespace>KMP</RootNamespace>
